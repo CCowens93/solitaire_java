@@ -21,7 +21,7 @@ public class Card{
                 System.out.println(randomCard);
             }
         }
-
+        
         
    
     }
